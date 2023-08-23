@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3453136005
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: forecastcanvas
+      Dependencies: {}
